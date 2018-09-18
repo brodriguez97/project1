@@ -1,2 +1,6 @@
 # this is my first rstudio git project
-plot(women)
+plot(men)
+
+
+# new something
+summary(mtcars)
